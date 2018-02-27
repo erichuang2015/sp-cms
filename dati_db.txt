@@ -1,9 +1,0 @@
-TODO for 1.0
-- Riscrivere tutto in inglese (co!!!!)
-- Testare
-- Pubblicare!!!!!!!!!!!!!!!!
-
-TODO for 1.1
-
-- Aggiungere modificato da:..
-- Tagliare dopo n parole
