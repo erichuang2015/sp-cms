@@ -82,3 +82,5 @@ alter table comment
   add constraint commento_fk
 foreign key (author) references user (ID)
 ;
+
+INSERT INTO style (background, box, title, link, link_hover) VALUES ('808080', 'ffffff', '000000', '0071e1', 'ff0080');
