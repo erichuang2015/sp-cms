@@ -8,15 +8,15 @@
  */
 
 //The database credentials used to login into database
-DEFINE('HOST', 'eu-cdbr-west-02.cleardb.net');
-DEFINE('USER', 'b4560f50e6adf6');
-DEFINE('PASSWORD','e4d97578');
-DEFINE('PORTA','3306');
-DEFINE('DATABASE','heroku_164f22f40abacc6');
+DEFINE('HOST', 'INSERTHERE');
+DEFINE('USER', 'INSERTHERE');
+DEFINE('PASSWORD','INSERTHERE');
+DEFINE('PORTA','INSERTHERE');
+DEFINE('DATABASE','INSERTHERE');
 //define the ssl password, protocol and iv
 DEFINE('PROTOCOL','AES-128-CBC');
-DEFINE('PASSWORD_SSL','portalepizze');
-DEFINE('IV','ciaociaociaociao');//
+DEFINE('PASSWORD_SSL','portalepizze'); //INSERT YOUR PASSWORD
+DEFINE('IV','ciaociaociaociao');//INSERT YOUR IV
 
 //Query to login into database using the given credentials
 //$sp_db_connection = mysqli_connect($sp_host, $sp_user, $sp_password, '" . DATABASE . "', $sp_porta);
